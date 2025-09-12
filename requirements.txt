@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+numpy
+plotly
+sentence-transformers
+langchain
+google-generativeai
+python-dotenv
+scikit-learn
+faiss-cpu
+torch
+shap>=0.41.0
+pymatgen
+
