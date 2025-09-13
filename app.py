@@ -24,6 +24,13 @@ st.set_page_config(
 st.title("🧪 XAScribe")
 st.markdown("**Upload your XAS data and research papers to generate comprehensive manuscript sections**")
 
+# GitHub repository link
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Oscuro-Phoenix/xascribe) [![View Source Code](https://img.shields.io/badge/View-Source%20Code-green?logo=github)](https://github.com/Oscuro-Phoenix/xascribe)")
+
+st.markdown("---")
+
 # === SIDEBAR CONFIGURATION ===
 st.sidebar.header("🔧 Configuration")
 
