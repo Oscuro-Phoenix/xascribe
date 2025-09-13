@@ -486,3 +486,6 @@ with st.sidebar.expander("How to use"):
 st.sidebar.markdown("---")
 st.sidebar.markdown("**XAS Research Assistant v2.0**")
 st.sidebar.markdown("*Streamlined Workflow Edition*")
+st.sidebar.markdown("---")
+st.sidebar.markdown("[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Oscuro-Phoenix/xascribe)")
+st.sidebar.markdown("🔗 [View Source Code](https://github.com/Oscuro-Phoenix/xascribe)")
